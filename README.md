@@ -10,9 +10,7 @@ To run this application :
 
 3. Install all the dependencies using ```bash
    pip install -r requirements.txt
-   `
+   ```
 4. Run the application locally using ```bash
    streamlit run App.py
-   `
-
-
+   ```
