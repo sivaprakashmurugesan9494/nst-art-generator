@@ -8,9 +8,11 @@ To run this application :
 
 2. The required Python version to run this code is 3.9.
 
-3. Install all the dependencies using ```bash
+3. Install all the dependencies using
+   ```bash
    pip install -r requirements.txt
    ```
-4. Run the application locally using ```bash
+5. Run the application locally using
+   ```bash
    streamlit run App.py
    ```
