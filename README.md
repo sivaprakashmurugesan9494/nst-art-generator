@@ -1,11 +1,18 @@
-### 🎨🖌 Creating Art with the help of Artificial Intelligence !
+### Neural Style Transfer Art Generator
 
-- **🔥 Official Website :** https://share.streamlit.io/deepeshdm/pixelmix/main/App.py
-- <h4> Training Repository - <a href="https://github.com/deepeshdm/Neural-Style-Transfer"> here </a> </h4>
+This NST Art Generator uses neural style transfer and transfer the styles of two given images and returns a single image.
 
-<div align="center">
-  <img src="/assets/website.gif" width="90%"/>
-</div>
+To run this application : 
 
+1. Clone this repository
+
+2. The required Python version to run this code is 3.9.
+
+3. Install all the dependencies using ```bash
+   pip install -r requirements.txt
+   `
+4. Run the application locally using ```bash
+   streamlit run App.py
+   `
 
 
